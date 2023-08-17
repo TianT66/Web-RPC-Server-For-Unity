@@ -1,0 +1,163 @@
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.exe
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\sqlite3.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.dll.config
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.deps.json
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.runtimeconfig.json
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.runtimeconfig.dev.json
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.pdb
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\log4net.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.StaticFiles.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.WebEncoders.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\unity\mobilesim\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.AssemblyInfoInputs.cache
+D:\work\unity\mobilesim\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.AssemblyInfo.cs
+D:\work\unity\mobilesim\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.csproj.CoreCompileInputs.cache
+D:\work\unity\mobilesim\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.dll
+D:\work\unity\mobilesim\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.pdb
+D:\work\unity\mobilesim\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.genruntimeconfig.cache
+D:\work\unity\mobilesim\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.csproj.AssemblyReference.cache
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.exe
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\sqlite3.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.dll.config
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.deps.json
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.runtimeconfig.json
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.runtimeconfig.dev.json
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.pdb
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.StaticFiles.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.WebEncoders.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Workspace\exam system\examsystem_service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Workspace\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.csproj.AssemblyReference.cache
+E:\Workspace\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.AssemblyInfoInputs.cache
+E:\Workspace\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.AssemblyInfo.cs
+E:\Workspace\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.csproj.CoreCompileInputs.cache
+E:\Workspace\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.dll
+E:\Workspace\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.pdb
+E:\Workspace\exam system\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.genruntimeconfig.cache
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.exe
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.deps.json
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.runtimeconfig.json
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.runtimeconfig.dev.json
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Examsystemservice.pdb
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.csproj.AssemblyReference.cache
+E:\Workspace\Unity\WebRPC\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\Unity\WebRPC\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.AssemblyInfoInputs.cache
+E:\Workspace\Unity\WebRPC\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.AssemblyInfo.cs
+E:\Workspace\Unity\WebRPC\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.csproj.CoreCompileInputs.cache
+E:\Workspace\Unity\WebRPC\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.dll
+E:\Workspace\Unity\WebRPC\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.pdb
+E:\Workspace\Unity\WebRPC\examsystem_service\obj\Debug\netcoreapp3.1\Examsystemservice.genruntimeconfig.cache
